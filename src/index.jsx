@@ -5,9 +5,12 @@ import App from './views/App';
 import './index.css';
 
 
+
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  <div>
+  
+  
     <App></App>
-  </div>
+  
+  
 );
